@@ -1,11 +1,10 @@
+```
 C:.
 ├───detection-modules
-
 └───webserver-resources
-
     ├───webserver-backend
-    
     └───webserver-frontend
+```
 
 detection-modules
 Where we will put the code for detecting a given attack
